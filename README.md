@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# Hi intruder, welcome to my github  🏴‍☠️ 
+# Hi stranger, welcome to my github  🏴‍☠️ 
 
 ## Web developer / Pentest tool scripting
 
